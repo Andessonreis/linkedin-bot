@@ -1,0 +1,21 @@
+# Arquivos gerados pelo ambiente de desenvolvimento ou IDE
+.vscode/
+.idea/
+*.iml
+
+# Arquivos gerados pelo Python
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de log e saída
+*.log
+*.out
+
+# Dependências e pacotes gerados
+node_modules/
+target/
+dist/
